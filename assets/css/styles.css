@@ -1,0 +1,12 @@
+@import "./normalize.css";
+
+:root {
+	--mainDark: #1b1a1b;
+	--mainGray: #2c2c2c;
+}
+
+body {
+	min-height: 100vh;
+
+	background: var(--mainDark);
+}
